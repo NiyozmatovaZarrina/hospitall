@@ -1,1 +1,1 @@
-# hospitall
+# hospitalls
